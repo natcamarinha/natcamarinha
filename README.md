@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Natalia Camarinha! 
 
-Sou formada em Administração de Empresas e após mais de 10 anos de experiência resolvi fazer essa transição de carreira para a área de tecnologia. Acho incrível como a tecnologia pode impactar a vida das pessoas, criando facilidades e acessibilidade para todos.
+Sou formada em Administração de Empresas e após mais de 10 anos de experiência resolvi fazer essa transição de carreira para a área de tecnologia. Acho incrível como a tecnologia pode impactar a vida das pessoas, criando facilidades e acessibilidade para todos. E assim me apaixonei por tecnologia.
 
 ##
 
