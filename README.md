@@ -2,6 +2,8 @@
 
 Sou formada em Administração de Empresas e após mais de 10 anos de experiência resolvi fazer essa transição de carreira para a área de tecnologia. Acho incrível como a tecnologia pode impactar a vida das pessoas, criando facilidades e acessibilidade para todos. E assim me apaixonei por tecnologia.
 
+Ao longo desses 8 meses de estudos na Trybe desenvolvi 27 projetos com a linguagem Javascript, utilizando React, Node.js e banco de dados MySQL e MongoDB. Além de ter desenvolvido 4 projetos em grupo onde pude praticar e desenvolver minhas soft skills.
+
 ##
 
 <div align="center">
